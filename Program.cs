@@ -10,7 +10,7 @@ using Solução__HTTP_;
 
 namespace Solução__HTTP_
 {
-    class Program
+    class Program // Coenctar o Visual Studio com uma HTTP
     {
         static void Main(string[] args)
         {
