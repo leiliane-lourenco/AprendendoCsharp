@@ -1,0 +1,32 @@
+C:\Guia_Do_Programador_C#\Solução 'HTTP'\bin\Debug\netcoreapp3.1\HTTP.exe
+C:\Guia_Do_Programador_C#\Solução 'HTTP'\bin\Debug\netcoreapp3.1\HTTP.deps.json
+C:\Guia_Do_Programador_C#\Solução 'HTTP'\bin\Debug\netcoreapp3.1\HTTP.runtimeconfig.json
+C:\Guia_Do_Programador_C#\Solução 'HTTP'\bin\Debug\netcoreapp3.1\HTTP.runtimeconfig.dev.json
+C:\Guia_Do_Programador_C#\Solução 'HTTP'\bin\Debug\netcoreapp3.1\HTTP.dll
+C:\Guia_Do_Programador_C#\Solução 'HTTP'\bin\Debug\netcoreapp3.1\HTTP.pdb
+C:\Guia_Do_Programador_C#\Solução 'HTTP'\obj\Debug\netcoreapp3.1\HTTP.csproj.AssemblyReference.cache
+C:\Guia_Do_Programador_C#\Solução 'HTTP'\obj\Debug\netcoreapp3.1\HTTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Guia_Do_Programador_C#\Solução 'HTTP'\obj\Debug\netcoreapp3.1\HTTP.AssemblyInfoInputs.cache
+C:\Guia_Do_Programador_C#\Solução 'HTTP'\obj\Debug\netcoreapp3.1\HTTP.AssemblyInfo.cs
+C:\Guia_Do_Programador_C#\Solução 'HTTP'\obj\Debug\netcoreapp3.1\HTTP.csproj.CoreCompileInputs.cache
+C:\Guia_Do_Programador_C#\Solução 'HTTP'\obj\Debug\netcoreapp3.1\HTTP.dll
+C:\Guia_Do_Programador_C#\Solução 'HTTP'\obj\Debug\netcoreapp3.1\HTTP.pdb
+C:\Guia_Do_Programador_C#\Solução 'HTTP'\obj\Debug\netcoreapp3.1\HTTP.genruntimeconfig.cache
+C:\Guia_Do_Programador_C#\Solução 'HTTP'\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Guia_Do_Programador_C#\Solução 'HTTP'\obj\Debug\netcoreapp3.1\HTTP.csproj.CopyComplete
+C:\Guia_Do_Programador_C#\HTTP\bin\Debug\netcoreapp3.1\HTTP.exe
+C:\Guia_Do_Programador_C#\HTTP\bin\Debug\netcoreapp3.1\HTTP.deps.json
+C:\Guia_Do_Programador_C#\HTTP\bin\Debug\netcoreapp3.1\HTTP.runtimeconfig.json
+C:\Guia_Do_Programador_C#\HTTP\bin\Debug\netcoreapp3.1\HTTP.runtimeconfig.dev.json
+C:\Guia_Do_Programador_C#\HTTP\bin\Debug\netcoreapp3.1\HTTP.dll
+C:\Guia_Do_Programador_C#\HTTP\bin\Debug\netcoreapp3.1\HTTP.pdb
+C:\Guia_Do_Programador_C#\HTTP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Guia_Do_Programador_C#\HTTP\obj\Debug\netcoreapp3.1\HTTP.csproj.AssemblyReference.cache
+C:\Guia_Do_Programador_C#\HTTP\obj\Debug\netcoreapp3.1\HTTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Guia_Do_Programador_C#\HTTP\obj\Debug\netcoreapp3.1\HTTP.AssemblyInfoInputs.cache
+C:\Guia_Do_Programador_C#\HTTP\obj\Debug\netcoreapp3.1\HTTP.AssemblyInfo.cs
+C:\Guia_Do_Programador_C#\HTTP\obj\Debug\netcoreapp3.1\HTTP.csproj.CoreCompileInputs.cache
+C:\Guia_Do_Programador_C#\HTTP\obj\Debug\netcoreapp3.1\HTTP.csproj.CopyComplete
+C:\Guia_Do_Programador_C#\HTTP\obj\Debug\netcoreapp3.1\HTTP.dll
+C:\Guia_Do_Programador_C#\HTTP\obj\Debug\netcoreapp3.1\HTTP.pdb
+C:\Guia_Do_Programador_C#\HTTP\obj\Debug\netcoreapp3.1\HTTP.genruntimeconfig.cache
